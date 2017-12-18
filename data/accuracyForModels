@@ -1,0 +1,5 @@
+RandomForestRegressor with No Feature Selection or optimization:
+0.937430440575
+
+KNN no optimization
+0.955223794794
